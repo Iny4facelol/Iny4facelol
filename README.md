@@ -13,7 +13,7 @@ You can click the Preview link to take a look at your changes.
 
   
   <a style="text-decoration: none;" href="https://www.w3schools.com/js/default.asp" target="_blank"> <img src="https://github.com/devicons/devicon/blob/master/icons/javascript/javascript-original.svg" alt="javascript" width="40" height="40"/> </a>
-  <a style="text-decoration: none;" href="https://tailwindcss.com/" target="_blank"> <img src="https://github.com/devicons/devicon/blob/master/icons/tailwindcss/tailwindcss-original.svg" alt="tailwind" width="40" height="40"/> </a>
+  <img src="https://github.com/devicons/devicon/blob/master/icons/tailwindcss/tailwindcss-original.svg" alt="tailwind" width="40" height="40"/>
   <a style="text-decoration: none;" href="https://es.react.dev/" target="_blank"> <img src="https://github.com/devicons/devicon/blob/master/icons/react/react-original.svg" alt="react" width="40" height="40"/> </a> 
   <a style="text-decoration: none;" href="https://www.typescriptlang.org/" target="_blank"> <img src="https://github.com/devicons/devicon/blob/master/icons/typescript/typescript-original.svg" alt="typescript" width="40" height="40"/> </a> 
   <a style="text-decoration: none;" href="https://astro.build/" target="_blank"> <img src="https://github.com/devicons/devicon/blob/master/icons/astro/astro-original-wordmark.svg" alt="astro" width="40" height="40"/> </a> 
