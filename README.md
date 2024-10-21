@@ -26,4 +26,6 @@ You can click the Preview link to take a look at your changes.
     <img src="https://github.com/user-attachments/assets/773afe64-d661-408b-b870-67ee3f214c36" width="100" height="60">
     <img src="https://github.com/user-attachments/assets/cfc5ac2d-e8e0-40ce-b3da-661f8a8764f2" width="100" height="60">
     <img src="https://github.com/user-attachments/assets/446c7920-dab8-43cf-85e3-f51bb049f506" width="100" height="60">
-</article>
+</article
+
+  [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=anuraghazra)](https://github.com/anuraghazra/github-readme-stats)
