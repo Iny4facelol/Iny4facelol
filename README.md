@@ -12,9 +12,12 @@ You can click the Preview link to take a look at your changes.
 <h2>My tech stack.👨‍💻</h2>
 
 <article style="display: flex; justify-content: center; align-items: center; gap: 10px;">
-  <img src="https://github.com/devicons/devicon/blob/master/icons/javascript/javascript-original.svg" alt="javascript" width="40" height="40" style="display: inline-block;"/>
-  <img src="https://github.com/devicons/devicon/blob/master/icons/typescript/typescript-original.svg" alt="typescript" width="40" height="40" style="display: inline-block;"/>
-  <img src="https://github.com/devicons/devicon/blob/master/icons/react/react-original.svg" alt="react" width="40" height="40" style="display: inline-block;"/>
+  <div>  <img src="https://github.com/devicons/devicon/blob/master/icons/javascript/javascript-original.svg" alt="javascript" width="40" height="40" style="display: inline-block;"/> </div>
+  <div>  <img src="https://github.com/devicons/devicon/blob/master/icons/typescript/typescript-original.svg" alt="typescript" width="40" height="40" style="display: inline-block;"/> </div>
+  <div>  <img src="https://github.com/devicons/devicon/blob/master/icons/react/react-original.svg" alt="react" width="40" height="40" style="display: inline-block;"/> </div>
+
+
+
   <img src="https://github.com/devicons/devicon/blob/master/icons/astro/astro-original-wordmark.svg" alt="astro" width="40" height="40" style="display: inline-block;"/>
   <img src="https://github.com/devicons/devicon/blob/master/icons/nodejs/nodejs-original.svg" alt="node" width="40" height="40" style="display: inline-block;"/>
   <img src="https://github.com/devicons/devicon/blob/master/icons/mysql/mysql-original.svg" alt="mysql" width="40" height="40" style="display: inline-block;"/>
