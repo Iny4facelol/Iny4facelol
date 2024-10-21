@@ -11,19 +11,32 @@ You can click the Preview link to take a look at your changes.
 
 <h2>My tech stack.👨‍💻</h2>
 
-<article style="display: flex; justify-content: center; align-items: center;">
-  <img src="https://github.com/user-attachments/assets/15bfaeb9-fb76-4c68-ab61-a1926333ac3a" width="60" height="60">
-  <img src="https://github.com/user-attachments/assets/9c457f3a-4596-4f31-b55a-67e617ae3e11" width="60" height="60">
-  <img src="https://github.com/user-attachments/assets/4df71719-b39c-4b71-b003-8f14f020bef6" width="60" height="60">
-  <img src="https://github.com/user-attachments/assets/33378e7a-3d79-4380-86f6-44e37834c0e7" width="60" height="60">
-  <img src="https://github.com/user-attachments/assets/3630e18d-4d1f-49bc-ae33-2b169c37f0ad" width="100" height="60">
-  <img src="https://github.com/user-attachments/assets/0c57ba5a-9de6-4522-aef3-421e2321f8e7" width="100" height="80">
-</article>
+  
+  <a href="https://www.w3schools.com/js/default.asp" target="_blank"> <img src="https://github.com/devicons/devicon/blob/master/icons/javascript/javascript-original.svg" alt="javascript" width="40" height="40"/> </a>
+  <a href="https://tailwindcss.com/" target="_blank"> <img src="https://github.com/devicons/devicon/blob/master/icons/tailwindcss/tailwindcss-original.svg" alt="tailwind" width="40" height="40"/> </a>
+  <a href="https://es.react.dev/" target="_blank"> <img src="https://github.com/devicons/devicon/blob/master/icons/react/react-original.svg" alt="react" width="40" height="40"/> </a> 
+  <a href="https://www.typescriptlang.org/" target="_blank"> <img src="https://github.com/devicons/devicon/blob/master/icons/typescript/typescript-original.svg" alt="typescript" width="40" height="40"/> </a> 
+  <a href="https://astro.build/" target="_blank"> <img src="https://github.com/devicons/devicon/blob/master/icons/astro/astro-original.svg" alt="astro" width="40" height="40"/> </a> 
+  <a href="https://nodejs.org/en/" target="_blank"> <img src="https://github.com/devicons/devicon/blob/master/icons/nodejs/nodejs-original.svg" alt="node" width="40" height="40"/> </a>
+  <a href="https://www.mysql.com/" target="_blank"> <img src="https://github.com/devicons/devicon/blob/master/icons/mysql/mysql-original.svg" alt="mysql" width="40" height="40"/> </a>
+  <a href="https://git-scm.com/" target="_blank"> <img src="https://www.vectorlogo.zone/logos/git-scm/git-scm-icon.svg" alt="git" width="40" height="40"/> </a> 
+
+
 
 <h2>My layout stack.🎨</h2>
 
 <article style="display: flex; justify-content: center; align-items: center;">
-    <img src="https://github.com/user-attachments/assets/773afe64-d661-408b-b870-67ee3f214c36" width="100" height="60">
-    <img src="https://github.com/user-attachments/assets/cfc5ac2d-e8e0-40ce-b3da-661f8a8764f2" width="100" height="60">
-    <img src="https://github.com/user-attachments/assets/446c7920-dab8-43cf-85e3-f51bb049f506" width="100" height="60">
-</article
+  <a href="https://www.w3schools.com/css/" target="_blank"> <img src="https://devicons.github.io/devicon/devicon.git/icons/css3/css3-original-wordmark.svg" alt="css3" width="40" height="40"/> </a>
+  <a href="https://www.figma.com/" target="_blank"> <img src="https://www.vectorlogo.zone/logos/figma/figma-icon.svg" alt="figma" width="40" height="40"/> </a> 
+  <a href="https://sass-lang.com/" target="_blank"> <img src="https://github.com/devicons/devicon/blob/master/icons/sass/sass-original.svg" alt="sass" width="40" height="40"/> </a> 
+  <a href="https://getbootstrap.com/" target="_blank"> <img src="https://github.com/devicons/devicon/blob/master/icons/bootstrap/bootstrap-original.svg" alt="bootstrap" width="40" height="40"/> </a> 
+</article>
+
+
+<p align="left"> 
+ 
+
+  
+
+</p>
+
