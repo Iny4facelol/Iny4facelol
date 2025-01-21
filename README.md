@@ -1,7 +1,7 @@
 - 👋 Hey, this is Alex. 
 - 👀 I’m interested in web development. 
 - 🌱 I’m currently learning how to become a full-stack dev.
-- 📫 You can mail me at -> kavaliergrau3@gmail.com
+- 📫 You can mail me at -> alex.m.gongora@protonmail.com
 - 😄 Pronouns: He/Him.
 
 <!---
